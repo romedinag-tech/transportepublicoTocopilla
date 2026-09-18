@@ -1,0 +1,1 @@
+{"periodo":"03-2026","metrica_gini":"Gini de km por bus (0=trabajo repartido, 1=concentrado)","lineas":{"201":{"nombre":"Pacifico Norte - Bellavista","n_buses":11,"km":287029.0,"excesos":133,"exc100":0.05,"gini":0.251},"202":{"nombre":"Pacifico Norte - Bellavista","n_buses":11,"km":289983.0,"excesos":246,"exc100":0.08,"gini":0.221}}}
