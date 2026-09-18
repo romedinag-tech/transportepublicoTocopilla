@@ -10,7 +10,7 @@ window.CITY = {
   comunasGeojson: "comunas_tocopilla.geojson",
   live: false,
   liveBase: "",
-  demanda: false,
+  demanda: true,
   repo: "transportepublicoTocopilla",
   voz: {"ejeSing": "eje", "ejePlur": "ejes", "EjePlur": "Ejes"},
 };
